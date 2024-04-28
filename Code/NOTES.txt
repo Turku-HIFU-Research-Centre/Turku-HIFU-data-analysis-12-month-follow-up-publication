@@ -1,0 +1,4 @@
+# Library(DescTools)
+# Reference https://ggplot2.tidyverse.org/reference/
+# Color palettes https://www.r-graph-gallery.com/38-rcolorbrewers-palettes.html
+# Greek letters https://stackoverflow.com/questions/4973898/combining-paste-and-expression-functions-in-plot-labels
